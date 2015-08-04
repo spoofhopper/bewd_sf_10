@@ -23,9 +23,9 @@ end
       puts "This is the number #{number}"
 
       awesome_number(number)
+
     end
 
-  end
+end
 
-
-awesome_seeker(100)
+awesome_seeker(50)
