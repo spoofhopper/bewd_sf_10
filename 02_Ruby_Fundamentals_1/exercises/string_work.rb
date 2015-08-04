@@ -19,3 +19,5 @@ puts string.center(50)
 puts string
 puts string
 puts string.chars
+last_name = "Holland"
+puts "This is my last name as an array #{last_name.chars}. This is of class #{last_name.chars.class}"
