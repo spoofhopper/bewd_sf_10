@@ -17,7 +17,7 @@ From your master branch (`git branch`) in `bewd_sf_10` directory, pull from upst
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------ | ------ | ------- | --------- | -------- | ------ | -------- |
-| Kisha <br> 12-2pm | Nicole <br> 5:30-6:30pm | Chritine: <br> 5:30-6:30pm | Nicole: <br> 5:30-6-30pm | Christine <br> 5:30-6:30pm | - | - | 
+| Kisha <br> 12-2pm | Nicole <br> 5:30-6:30pm | Christine: <br> 5:30-6:30pm | Nicole: <br> 5:30-6-30pm | Christine <br> 5:30-6:30pm | - | - | 
 
 
 ###Bonus Resources

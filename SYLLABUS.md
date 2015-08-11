@@ -14,10 +14,10 @@ BACK-END WEB DEVELOPMENT
 | 1 | Ruby Foundations | A Peek at Ruby & Git | Wed. 07/28/2015|
 | 2 | Ruby Foundations|  Scalar Objects: Strings. Collection Objects: Arrays | Mon. 08/3/2015 |
 | 3 | Ruby Foundations| Scalar Objects: Numerics & Symbols. Collection Objects: Hashes. Control Flow Techniques| Wed. 08/05/2015 |
-| 4 | Ruby Foundations | Intro to API's with Ruby Foundations|  
-| 5 | Ruby Foundations | Object Oriented Concepts: Part 1 | |
-| 6 | Ruby Foundations | Object Oriented Concepts: Part 2  |  |
-| 7 | Ruby & Rails | Intro to Model View Controller Framework ||
+| 4 | Ruby Foundations | Intro to API's with Ruby Foundations - Part 1|   Mon. 08/10/2015
+| 5 | Ruby Foundations | Intro to API's with Ruby Foundations - Part 2| Wed. 08/12/2015 |
+| 6 | Ruby Foundations | Object Oriented Concepts: Part 1  |  |
+| 7 | Ruby & Rails | Object Oriented Concepts: Part 2 ||
 | 8 | Ruby & Rails| MVC - Intro to the Controller | |
 | 9 | Project Proposal| Project Proposal Workshop| |
 | 10 | Ruby & Rails| MVC - Intro to the Model ||
