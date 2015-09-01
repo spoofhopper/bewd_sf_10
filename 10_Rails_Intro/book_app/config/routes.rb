@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
+=======
+  resources :whatevers
+>>>>>>> 32a1c9cdcc8a9eeb0c231b6fe9bd85c89009289c
   resources :books
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

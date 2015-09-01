@@ -1,0 +1,31 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Whatevers</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Year</th>
+      <th>Available</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @whatevers.each do |whatever| %>
+      <tr>
+        <td><%= whatever.title %></td>
+        <td><%= whatever.year %></td>
+        <td><%= whatever.available %></td>
+        <td><%= link_to 'Show', whatever %></td>
+        <td><%= link_to 'Edit', edit_whatever_path(whatever) %></td>
+        <td><%= link_to 'Destroy', whatever, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Whatever', new_whatever_path %>

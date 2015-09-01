@@ -25,10 +25,17 @@ class BooksController < ApplicationController
   # POST /books.json
   def create
     @book = Book.new(book_params)
+<<<<<<< HEAD
     binding.pry
     respond_to do |format|
         format.html { redirect_to @book, notice: 'Book was successfully created.' }
       if @book.save
+=======
+
+    respond_to do |format|
+      if @book.save
+        format.html { redirect_to @book, notice: 'Book was successfully created.' }
+>>>>>>> 32a1c9cdcc8a9eeb0c231b6fe9bd85c89009289c
         format.json { render :show, status: :created, location: @book }
       else
         format.html { render :new }

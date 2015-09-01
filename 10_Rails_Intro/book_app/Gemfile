@@ -1,8 +1,13 @@
 source 'https://rubygems.org'
+<<<<<<< HEAD
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
+=======
+# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'rails', '4.2.3'
+>>>>>>> 32a1c9cdcc8a9eeb0c231b6fe9bd85c89009289c
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -24,13 +29,22 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
+<<<<<<< HEAD
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
   gem 'pry-rails'
   gem 'pry'
+=======
+  gem 'byebug'
+  gem 'pry'
+  gem 'pry-rails'
+>>>>>>> 32a1c9cdcc8a9eeb0c231b6fe9bd85c89009289c
   gem 'pry-byebug'
   gem 'binding_of_caller'
   gem 'better_errors'
   gem 'annotate'
+<<<<<<< HEAD
   #this is your required debugging stack!
+=======
+>>>>>>> 32a1c9cdcc8a9eeb0c231b6fe9bd85c89009289c
 end

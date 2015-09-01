@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @whatever.title %>
+</p>
+
+<p>
+  <strong>Year:</strong>
+  <%= @whatever.year %>
+</p>
+
+<p>
+  <strong>Available:</strong>
+  <%= @whatever.available %>
+</p>
+
+<%= link_to 'Edit', edit_whatever_path(@whatever) %> |
+<%= link_to 'Back', whatevers_path %>
