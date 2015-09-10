@@ -1,0 +1,11 @@
+<div class="col-12">
+  <h1 style="color:#cc3333;">Our Book Collection</h1>
+
+  <div class="well">
+    <% @books.each do |book| %>
+    <ul>
+      <li> <%= book.title %> </li>
+    </ul>
+    <% end %>
+  </div>
+</div>
