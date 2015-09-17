@@ -25,9 +25,9 @@ BACK-END WEB DEVELOPMENT
 | 12 | Ruby & Rails| Music App: MVC - Controller 101 - CRUD Continued | Wed 2015-09-09|
 | ** | Special Sunday Session | MVC - Routes, Controller & View Deep Dive   |Sun 2015-09-15|
 | 13 | Ruby & Rails| Music App: MVC - Model 101 - Intro to Associations & Validations | Mon 2015-09-14|
-| 14 | Ruby & Rails| Music App: MVC - Model 102 - Intro to Active Record Queries | Wed 2015-09-16 |
+| 14 | Ruby & Rails| Music App: MVC - View - Front End Integration | Wed 2015-09-16 |
 | ** | Special Sunday Session| Music App: MVC - Api Integration 101 with Spotify / GoodReads |Sun 2015-09-20|
-| 15 | Ruby & Rails| Music App: MVC - Api Integration 101 with Spotify / GoodReads  |Mon 2015-09-21|
+| 15 | Ruby & Rails| Music App: MVC - 102 Active Record Queries &  Api Integration 101 with Spotify / GoodReads  |Mon 2015-09-21|
 | 16 | Ruby & Rails| Music App: MVC Api Integration 102- Authentication with Google & Twitter APIs  |Wed 2015-09-23|
 | ** | Special Sunday Session| Intro to React & Final Project Hack Day |Sun 2015-09-27|
 | 17 | Ruby & React| Api Integration - 3rd Party Api's| Mon 2015-09-28|
