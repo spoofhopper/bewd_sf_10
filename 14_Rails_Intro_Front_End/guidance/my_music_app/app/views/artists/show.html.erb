@@ -1,8 +1,11 @@
 <div class="row-fluid">
+
   <div class="panel panel-default">
+
   <div class="col-md-6">
     <%=image_tag(@artist.image_url, class: "img-responsive thumbnail") %>
   </div>
+
   <div class="col-md-6">
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -12,10 +15,13 @@
       </div>
       <div class="panel-body">
         <p> <%= @artist.description %> </p>
+        <div class="well">
+          <% @songs.each do |song| %>
+            <ul><%= song.title %> <%= link_to "Go to Lyrics", song.lyric_url, class: 'btn btn-danger btn-xs' , target: '_blank '%> </ul>
+          <% end %>
+        </div>
       </div>
     </div>
-
-
-
   </div>
+
 </div>

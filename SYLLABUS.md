@@ -28,9 +28,9 @@ BACK-END WEB DEVELOPMENT
 | 14 | Ruby & Rails| Music App: MVC - View - Front End Integration | Wed 2015-09-16 |
 | ** | Special Sunday Session| MVC - View - Front End Integration |Sun 2015-09-20|
 | 15 | Ruby & Rails| Music App: MVC - View Front End Integration & Homework Code Along (View Layer & Review Model Layer)  |Mon 2015-09-21|
-| 16 | Ruby & Rails| Music App: Music App: MVC - Api Integration 101: Authentication & Intro to Spotify  |Wed 2015-09-23|
-| ** | Special Sunday Session| Api Integration 101 with Spotify Continued & Final Project Hack Day |Sun 2015-09-27|
-| 17 | Ruby & React| Api Integration - 3rd Party Api's| Mon 2015-09-28|
-| 18 | Ruby & Rails| Project Lab Intensive |Wed 2015-09-30|
-| ** | Special Sunday Session | Project Hack Day & Final Project Hack Day | Sun 2015-10-4 |
-| 19 | Project Lab | Final Project Presentations| Sun 2015-10-5|
+| 16 | Ruby & Rails| Final Project Lab Intensive |Wed 2015-09-23|
+| ** | Special Sunday Session| Project One-on-Ones|Sun 2015-09-27|
+| 17 | Ruby & Rails | MVC - Api Integration 101: Authentication with Devise  & Final Project Lab Intensive | Mon 2015-09-28|
+| 18 | Ruby & Rails| MVC - Api Integration 102: TBD, Final Project Intensive |Wed 2015-09-30|
+| ** | Special Sunday Session | Final Project Hack Day & One-on-Ones | Sun 2015-10-4 |
+| 19 | Project Lab | Final Project Presentations| Mon 2015-10-5|
